@@ -1,1 +1,0 @@
-# SFND_Lidar_Obstacle_Detection
